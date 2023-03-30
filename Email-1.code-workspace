@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\Email-5"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Email-1"
+	}
+}
